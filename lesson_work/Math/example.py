@@ -6,7 +6,7 @@ num = 43.7
 print(math.floor(num)) #rounded down
 print(math.ceil(num)) #rounded up
 
-print(math.pow(num, 3), 'or easier', num**3) #powers wowie
+print(math.pow(num, 3), 'or easier', num**3) #powers yay
 
 print(math.sqrt(num)) #square root
 
