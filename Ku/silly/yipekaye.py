@@ -14,7 +14,7 @@ while True:
     x0 = random.randint(-200, 800)
     y0 = random.randint(-200, 800)
     s = random.randint(0, 100)
-    canvas.create_text(x0, y0, text="hii :3", fill= colors[random.randint(0, 2)])
+    canvas.create_text(x0, y0, text="testhii :3", fill= colors[random.randint(0, 2)])
 #    canvas.create_oval(x0, y0, x0+s, y0+s, fill=colors[random.randint(0, 2)])
     window.update()
     
